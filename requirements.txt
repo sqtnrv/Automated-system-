@@ -1,0 +1,8 @@
+requests
+tweepy
+instaloader
+google-api-python-client
+pytube
+opencv-python
+ffmpeg
+schedule
